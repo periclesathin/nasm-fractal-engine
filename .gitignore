@@ -1,0 +1,8 @@
+# Build artifacts
+*.o
+fractal-engine
+test_mandelbrot
+render_example
+
+# Generated images
+*.png
